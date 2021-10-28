@@ -1,0 +1,22 @@
+{
+  "name": "stargate",
+  "version": "1.0.0",
+  "description": "prod test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronsomo/stargate.git"
+  },
+  "author": "aaron southammavong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronsomo/stargate/issues"
+  },
+  "homepage": "https://github.com/aaronsomo/stargate#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
